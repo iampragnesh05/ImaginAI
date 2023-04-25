@@ -1,4 +1,4 @@
-const API_KEY = "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"
+const API_KEY = "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"
 const submitIcon = document.querySelector("#submit-icon")
 const inputElement = document.querySelector("input")
 const imageSection = document.querySelector('.images-section')
